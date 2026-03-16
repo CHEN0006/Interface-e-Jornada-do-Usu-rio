@@ -1,0 +1,1 @@
+Aprenda os fundamentos de UX/UI e o mapeamento da jornada do usuário para criar interfaces digitais intuitivas e eficazes. O curso aborda análise de comportamento, prototipagem e testes de usabilidade, preparando você para desenvolver experiências que geram valor real.
